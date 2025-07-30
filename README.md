@@ -28,7 +28,7 @@
 ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
 ![React Native](https://reactnative.dev/img/header_logo.svg)
 ![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg)
-![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
 ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
 
